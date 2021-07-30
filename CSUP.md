@@ -3,7 +3,7 @@
 
 ## Book Review
 
-###Part 1: Common Stocks and Uncommon Profits
+### Part 1: Common Stocks and Uncommon Profits
 
 ### Part 2: Conservative Investors Sleep Well
 
