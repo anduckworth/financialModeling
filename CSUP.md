@@ -22,7 +22,25 @@
  - Best investments = select companies that over the years can grow in sales and profits far more than the industry as a whole.
  - Look for management that has both a determination to attain further important growth and an ability to bring its plans to completion
  - Scuttlebut
-      - 
+      - Method used to find the clues needed to find really outstanding investments
+      - competitors, vendors, customers, research scientists, government, executives, former employees
+  -15 points
+      - 1. Does the company have products or services with sufficient market potential to make possible a sizable increase in sales for at least several years?
+          - "Growth should not be judged on an annual basis but, by taking units of several years each."
+          - A successful company must keep good management and maintain a high order of business skill
+          - "If a company's management is outstanding and the industry is one subject to technological change and development research, the shrewd investor should stay alert to the possibility that management might handle company affairs so as to produce in the future exactly the type of sales curve that is the first step to consider in choosing an outstanding investment."
+      - 2. Does the management have a determination to continue to develop products or processes that will still further increase total sales potentials when the growth potentials of currently attractive product lines have largely been exploited?
+          = Companies which have a significant growth prosect for the next few years because of new demand for existing lines, but no plans past this are nice for a one time profit, but not for consistent gains over time
+          - Well equipped companies have diversified research
+      - 3. How effective are the company's research and development efforts in relation to its size?
+          - R&D/Revenue & R&D/Total Market-or-Competitors R&D
+          - There are discrepencies in pricing of R&D across companies. Some well run companies will get as much as twice the ultimate gain for each research dollar spent as will others.
+          - Coordination must be created between projects, product market fit, employees/skill, management
+          - The essence of successful commercial research is that only tasks be selected which promise to give dollar rewards of many times the cost of the research
+          - The value of a research project is derived from its ability to create a net benefit to the company either directly or indirectly, some creation of a moat through this research in relation to the product is also extremely beneficial
+          - An organization in relation to the size of its research activities has produced a good flow of profitable new products during an extended span of time will prbablh be productive in the future as long as it continues to operate under the same general methods.
+      - 4. Does the company have an above average sales organization?
+          - 
 
 ### Part 2: Conservative Investors Sleep Well
 
