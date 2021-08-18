@@ -149,13 +149,30 @@
       - The 15 points filter out companies with characteristics like these
       - When shareholders are not affected by retained earnings, the situtation is usually one in which an investment into an asset is needed to remian competitive that doesnt directly affect earnings, or when depreciation does not account for inflation and the depreciated value of an asset is less then what it will eventually cost to replace it
       - If the stockholder is saving any part of their income rather than spending it and if they have their funds invested in the right common stocks, then they are better off with the management of the company reinvesting the retained earnings rather than receiving a greater dividend
+
   - Five Dont's for investors
-      = Dont buy into promotional companies
-          - An established company, with at least two to three years of commercial operation and one year of operating profit, is what to look for rather than a new start up. The investor can look at all aspects of the operation
+      - Dont buy into promotional companies.
+          - An established company, with at least two to three years of commercial operation and one year of operating profit, is what to look for rather than a new start up. The investor can look at all aspects of the operation.
           - When a company is still in the promotional stage, all an investor or anyone else can do is look at a blueprint and guess what the problems and the strong points may be. Greater probability of error.
           - There are enough oportunities available in established companies that an investor should avoid promotional companies unless they have the resources to aid the promotional company in many other ways besides just investment
       - Don't ignore a good stock just because it is traded 'over the counter'. 
-          - fhdhd
+          - Normally, most buying should be confined to stocks which can be sold should a reason arise for such selling.
+          - some confusion regularly rises regarding stocks that arent readily available on exchanges, which are over the counter stocks
+          - Make sure to pick the right broker
+      - Dont buy a stock just because you like the tone of its annual report
+          - Dont only trust the annual report language/tone, dig deeper. PR stunts are real
+      - Don't assume that high price at which a stock may be selling in relation to earnings is necessarily an indication that further growth in those earnings has largely been discounted in the price
+          - People generally use price-earnings ratio to use in considering how far ahead a stock is actually discounting future growth.
+          - If a company has sustained a great performance with a regularly high P/E then it shouldn't be a surprise if they predict to continue growth and in fact do continue growth.
+      - Don't quibble over eighths and quarters
+          - If you must due to extremely large order sizes, then find a reliable broker dealer
+  - Five More Don'ts For Investors
+      - Dont overstress diversification
+          - Some companies have sufficient internal diversification
+          - The breadth and depth of a company's management personnel and how often they change is important to gague the need for diversifcation
+          - holdings in highly cyclical industries inherently need greater diversification
+          - All investments might be confined solely to the large entrenched type of properly selected growth stock. In this case, the investor may want a minimum goal of 5 stocks in all. This means that he would not invest over 20% of his total original commitment in any one of these stocks. No more than a moderate amount of overlapping between product lines. 
+          - Some or all of the investments may fall into the category of stocks about midway between the young growth companies with their high degree of risk and the institutional type of investment. Good management team, volume of business between 15 and 100 mil per year and rather well entrenched in the industries. You may want to allocate a smaller percentage to this group of investment 
           
           
 
