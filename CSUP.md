@@ -168,6 +168,7 @@
           - If you must due to extremely large order sizes, then find a reliable broker dealer
   - Five More Don'ts For Investors
       - Dont overstress diversification
+          - With stocks, the nature of the stock itself has a tremendous amount to do with the amount of diversification actually needed
           - Some companies have sufficient internal diversification
           - The breadth and depth of a company's management personnel and how often they change is important to gague the need for diversifcation
           - holdings in highly cyclical industries inherently need greater diversification
